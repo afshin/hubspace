@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+jupyterhub_cookie_secret
+jupyterhub.sqlite
+jupyterhub-proxy.pid
+*.pem
